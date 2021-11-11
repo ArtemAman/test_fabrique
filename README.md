@@ -1,4 +1,5 @@
 # to start locally
+## clone repo
 ### cd test_fabrique
 ### python3 -m venv venv
 ### source venv/bin/activate
